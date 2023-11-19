@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhole.txt
 
 You can also install multiple lists at once:
 ```bash
-path_to_script/RLI_for_Pi-hole.py \
+python3 path_to_script/RLI_for_Pi-hole.py \
 https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhole.txt \
 https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
 ```
